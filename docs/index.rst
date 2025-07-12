@@ -1,4 +1,4 @@
-norton.com/setup/productkey | My Norton - Login | Manage, Download or Setup an Account
+Quick Guide: norton.com/setup/productkey | My Norton - Login | Manage, Download or Setup an Account
 =======================================================================================
 
 In today’s digital-first world, online security is a necessity. If you’ve recently purchased a Norton antivirus subscription, your next step is activation. This detailed guide will help you walk through how to **Norton Setup Enter Product Key**, how to **Download or Setup Norton Account**, and how to fully secure your devices using the official `norton.com/setup/productkey <https://www.norton.com/setup/productkey>`_ portal.
