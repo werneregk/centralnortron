@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Central Nortron'
+project = 'firewallnortnn'
 copyright = '2025'
-author = 'Michael Beheim'
+author = 'Richard Euringer'
 
 release = '1.0'
 
